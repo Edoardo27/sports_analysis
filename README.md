@@ -1,5 +1,5 @@
 # <ins>Sports Analysis</ins>
-Personal project in which I analyzed a cricket leagues's data. The project's Jupyter Notebook is uploaded above.
+Personal project in which I analyze the data of a cricket league. The project's Jupyter Notebook is uploaded above.
 
 **<ins>Language</ins>**: *Python*
 
